@@ -1,0 +1,577 @@
+{
+  "items" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 9529329
+    },
+    "genres" : [ "canadian pop", "pop", "rap" ],
+    "href" : "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+    "id" : "1Xyo4u8uXC1ZmMpatF05PJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a1bbafd8c21c14fd685a3d8efb0906db7c059a97",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/30f5cabd38de3634a79bb527f3507581e96799c7",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/22e74f760f42dc5a8f91b8dbbbd38a0c6eaacbf4",
+      "width" : 160
+    } ],
+    "name" : "The Weeknd",
+    "popularity" : 93,
+    "type" : "artist",
+    "uri" : "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 3742048
+    },
+    "genres" : [ "dance pop", "pop", "pop christmas", "post-teen pop", "urban contemporary" ],
+    "href" : "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+    "id" : "26dSoYclwsYLMAKD3tpOr4",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/7fa2bde8d2837784a847f8201686b257757a749f",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f3f0e89644c30c96e50ddd483e3abedf744a460f",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/18f8f2204dd44ecaaaf587ce4429493f01887d93",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f9c035d14928a9e9e92d749f78293de8015c88b3",
+      "width" : 64
+    } ],
+    "name" : "Britney Spears",
+    "popularity" : 80,
+    "type" : "artist",
+    "uri" : "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 5819904
+    },
+    "genres" : [ "dance pop", "pop" ],
+    "href" : "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+    "id" : "00FQb4jTyendYWaN8pK0wa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/56a3782b07eab32b5340f164c566349450ee84cd",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/7891384e95fa3c1a7020645ae790c7924f7ae1dc",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/79e5bc2897ca24249707294d1e9324441bda97af",
+      "width" : 160
+    } ],
+    "name" : "Lana Del Rey",
+    "popularity" : 85,
+    "type" : "artist",
+    "uri" : "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2913931
+    },
+    "genres" : [ "alternative metal", "nu metal", "post-grunge", "rap metal", "rap rock" ],
+    "href" : "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8",
+    "id" : "05fG473iIaoy82BF1aGhL8",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/abcab48cf0b64277365769671c2a61b290a4575b",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a5d4bcb4ace1058295df02fb07145416ff502430",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/496285395e9097910b77e694932a4800c6b61339",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fea2f0e0bc6d8afe4afbb881b75c5050e70bc77d",
+      "width" : 64
+    } ],
+    "name" : "Slipknot",
+    "popularity" : 78,
+    "type" : "artist",
+    "uri" : "spotify:artist:05fG473iIaoy82BF1aGhL8"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 5179681
+    },
+    "genres" : [ "garage rock", "indie rock", "modern rock", "permanent wave", "sheffield indie" ],
+    "href" : "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+    "id" : "7Ln80lUS6He07XvHI8qqHH",
+    "images" : [ {
+      "height" : 1333,
+      "url" : "https://i.scdn.co/image/c488bf987b2f716a539a768a102855450345113d",
+      "width" : 1000
+    }, {
+      "height" : 853,
+      "url" : "https://i.scdn.co/image/b30c0e39cfa70b2124b9d0d24e83761ef48e5540",
+      "width" : 640
+    }, {
+      "height" : 267,
+      "url" : "https://i.scdn.co/image/e1f00ceabce8dd0480bad7e873993082d9ac3fe9",
+      "width" : 200
+    }, {
+      "height" : 85,
+      "url" : "https://i.scdn.co/image/eba02729ec372fd9954cafd3fd71950bb8fc385f",
+      "width" : 64
+    } ],
+    "name" : "Arctic Monkeys",
+    "popularity" : 84,
+    "type" : "artist",
+    "uri" : "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 175425
+    },
+    "genres" : [ "deep indie r&b", "deep pop r&b", "indie r&b", "neo soul", "pop", "r&b", "urban contemporary" ],
+    "href" : "https://api.spotify.com/v1/artists/30DhU7BDmF4PH0JVhu8ZRg",
+    "id" : "30DhU7BDmF4PH0JVhu8ZRg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/059eb6bfa1a9d520062ba37ccd149f47a7b262f9",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/e06610104dc6abc26a39f04521f827863a86d08f",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/df70bc50f678e99277740a273f6ca4defe2e6ee8",
+      "width" : 160
+    } ],
+    "name" : "Sabrina Claudio",
+    "popularity" : 73,
+    "type" : "artist",
+    "uri" : "spotify:artist:30DhU7BDmF4PH0JVhu8ZRg"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 218068
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/5sWHDYs0csV6RS48xBl0tH",
+    "id" : "5sWHDYs0csV6RS48xBl0tH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0f6200ee7db20cbe58f8f632581755a3a879f9f7",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/7246a3df8c7dedc3060d5017a86a91a8e8d36bba",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/c279be890c2b5a9e45004257392ee6ec3b5ec5f5",
+      "width" : 160
+    } ],
+    "name" : "Two Feet",
+    "popularity" : 73,
+    "type" : "artist",
+    "uri" : "spotify:artist:5sWHDYs0csV6RS48xBl0tH"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 865823
+    },
+    "genres" : [ "dance pop", "deep pop r&b", "hip pop", "indie r&b", "metropopolis", "pop", "pop rap", "post-teen pop", "r&b", "urban contemporary" ],
+    "href" : "https://api.spotify.com/v1/artists/0NIIxcxNHmOoyBx03SfTCD",
+    "id" : "0NIIxcxNHmOoyBx03SfTCD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/61fd9f0f395555e9a0f4611aafb054ffcb785a15",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/79c0104751632963cdbedde5fa45c21ac13bb479",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/3445e5fd6a9540082f0228e84bd3d92533f8a0df",
+      "width" : 160
+    } ],
+    "name" : "Tinashe",
+    "popularity" : 77,
+    "type" : "artist",
+    "uri" : "spotify:artist:0NIIxcxNHmOoyBx03SfTCD"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/13gq4EQiBgt2b7fnDcqTWy"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 40
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/13gq4EQiBgt2b7fnDcqTWy",
+    "id" : "13gq4EQiBgt2b7fnDcqTWy",
+    "images" : [ ],
+    "name" : "Elfrun Gabriel",
+    "popularity" : 20,
+    "type" : "artist",
+    "uri" : "spotify:artist:13gq4EQiBgt2b7fnDcqTWy"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1511
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/2YU2DA6yZZ0pmcR4utb3TM",
+    "id" : "2YU2DA6yZZ0pmcR4utb3TM",
+    "images" : [ {
+      "height" : 900,
+      "url" : "https://i.scdn.co/image/9dc4db9bb421784690b4395402eccb78e9dd241b",
+      "width" : 721
+    }, {
+      "height" : 799,
+      "url" : "https://i.scdn.co/image/1972baa1fba2b82077378e860456857098c720cd",
+      "width" : 640
+    }, {
+      "height" : 250,
+      "url" : "https://i.scdn.co/image/51826892a03f59cec863bc1b667b64574c2c2136",
+      "width" : 200
+    }, {
+      "height" : 80,
+      "url" : "https://i.scdn.co/image/0f1eb1973a502b130bdc70f978850c8361d90650",
+      "width" : 64
+    } ],
+    "name" : "Vladimir Feltsman",
+    "popularity" : 57,
+    "type" : "artist",
+    "uri" : "spotify:artist:2YU2DA6yZZ0pmcR4utb3TM"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 425416
+    },
+    "genres" : [ "dance pop", "deep pop r&b", "hip pop", "indie r&b", "neo soul", "pop", "post-teen pop", "r&b", "urban contemporary" ],
+    "href" : "https://api.spotify.com/v1/artists/6If57j6e3TXXk0HiLcIZca",
+    "id" : "6If57j6e3TXXk0HiLcIZca",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ac11eaf3b6fc0de987da24d1bfc390ff746b609e",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/d1c40adb0136bf754f7ee1d852be0245719911c8",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/434b99287acf069bcc58978b548becfe75bafcfa",
+      "width" : 160
+    } ],
+    "name" : "Sevyn Streeter",
+    "popularity" : 65,
+    "type" : "artist",
+    "uri" : "spotify:artist:6If57j6e3TXXk0HiLcIZca"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 10604270
+    },
+    "genres" : [ "permanent wave", "pop", "pop christmas", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+    "id" : "4gzpq5DPGxSnKTe4SA8HAU",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/143b0f286f76ece3a711f673d9ba00b8f499b2c0",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9815eb48540fa0d1c87ebd22289060729b1ab32a",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/02c781539fca2176059bdeafd9fa903db5b9a4d0",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d82a669c531c06b703c7468a8981424581f14e91",
+      "width" : 64
+    } ],
+    "name" : "Coldplay",
+    "popularity" : 89,
+    "type" : "artist",
+    "uri" : "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Yqu4YXjd4REZkS2tuf7Uo"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 25
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/0Yqu4YXjd4REZkS2tuf7Uo",
+    "id" : "0Yqu4YXjd4REZkS2tuf7Uo",
+    "images" : [ ],
+    "name" : "Andreas Pistorius",
+    "popularity" : 20,
+    "type" : "artist",
+    "uri" : "spotify:artist:0Yqu4YXjd4REZkS2tuf7Uo"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 85351
+    },
+    "genres" : [ "indie poptimism" ],
+    "href" : "https://api.spotify.com/v1/artists/7cYEt1pqMgXJdq00hAwVpT",
+    "id" : "7cYEt1pqMgXJdq00hAwVpT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/47e127ac6d819ab6174b3bdf3d99a88d8a437420",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/609c9343e2de7e42ac63aea3f3f50d1b31a995e8",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/2bbc91f7be3a04c36f8c9b68d2705291c6461d0b",
+      "width" : 160
+    } ],
+    "name" : "Chase Atlantic",
+    "popularity" : 66,
+    "type" : "artist",
+    "uri" : "spotify:artist:7cYEt1pqMgXJdq00hAwVpT"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 237178
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/6fBF4MULW5yMzyGaon1kUt",
+    "id" : "6fBF4MULW5yMzyGaon1kUt",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/1736bfb46838ebac1788b3a487c503ead63ddab7",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7e71586130412878a5898734725cb0150800ff28",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/12a4298ee47dc422416464bc4ea81e5dfdcd7d87",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f6f836170957d44c08b0ea6119631af779d35aaa",
+      "width" : 64
+    } ],
+    "name" : "John Butler Trio",
+    "popularity" : 58,
+    "type" : "artist",
+    "uri" : "spotify:artist:6fBF4MULW5yMzyGaon1kUt"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 40756
+    },
+    "genres" : [ "deep indie r&b", "indie r&b" ],
+    "href" : "https://api.spotify.com/v1/artists/2ICR2m4hOBPhaYiZB3rnLW",
+    "id" : "2ICR2m4hOBPhaYiZB3rnLW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a125d2766327b5e2314f439a3873a67e2dfc2fac",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/2ec18ead3c5a9140afd8245afa1e438498650dcf",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/f9d1e9af15e79e871c37c877c8cb72c8d118514c",
+      "width" : 160
+    } ],
+    "name" : "Sonder",
+    "popularity" : 61,
+    "type" : "artist",
+    "uri" : "spotify:artist:2ICR2m4hOBPhaYiZB3rnLW"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 33165
+    },
+    "genres" : [ "deep indie r&b", "indie electro-pop", "indie poptimism", "indie psych-rock", "indie r&b", "vapor soul" ],
+    "href" : "https://api.spotify.com/v1/artists/1I9HNoVK6kOQGVZfulXVnm",
+    "id" : "1I9HNoVK6kOQGVZfulXVnm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e1669d0798705fdeefe62ce9d81b510c8dc0597e",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/99a48ca0e39daeb257515fe7891e5024167901d8",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/eda0c29983a58bfd170b0d9e0391678618a72315",
+      "width" : 160
+    } ],
+    "name" : "TENDER",
+    "popularity" : 59,
+    "type" : "artist",
+    "uri" : "spotify:artist:1I9HNoVK6kOQGVZfulXVnm"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 302268
+    },
+    "genres" : [ "adult standards", "bebop", "christmas", "cool jazz", "hard bop", "jazz", "jazz blues", "jazz christmas", "jazz trumpet", "lounge", "vocal jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/3rxeQlsv0Sc2nyYaZ5W71T",
+    "id" : "3rxeQlsv0Sc2nyYaZ5W71T",
+    "images" : [ {
+      "height" : 817,
+      "url" : "https://i.scdn.co/image/8fd767aa91ecd8e5720b424812e2a17586834ac2",
+      "width" : 1000
+    }, {
+      "height" : 523,
+      "url" : "https://i.scdn.co/image/baa4a09ca62a85dab5de4a8e9d635571b9cfac9d",
+      "width" : 640
+    }, {
+      "height" : 163,
+      "url" : "https://i.scdn.co/image/5c15cad68e6584825963e484deca44c12e118dfb",
+      "width" : 199
+    }, {
+      "height" : 52,
+      "url" : "https://i.scdn.co/image/ec483daff287cc9cdb4a42cfa5bcd350a50bd89a",
+      "width" : 64
+    } ],
+    "name" : "Chet Baker",
+    "popularity" : 66,
+    "type" : "artist",
+    "uri" : "spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 114290
+    },
+    "genres" : [ "blues-rock", "electric blues", "lilith", "modern blues" ],
+    "href" : "https://api.spotify.com/v1/artists/30TrHDLNCKQVTYWOn9QqOC",
+    "id" : "30TrHDLNCKQVTYWOn9QqOC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0e855dfe8b85b5528d7b83b24bf0d9b370d80df5",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/4bc7345cc90c02fdc0913717cc74d2ba6d07978d",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ed4de57fdb98af4f6cec6ad27dc4dfdd7e36b05f",
+      "width" : 160
+    } ],
+    "name" : "Beth Hart",
+    "popularity" : 58,
+    "type" : "artist",
+    "uri" : "spotify:artist:30TrHDLNCKQVTYWOn9QqOC"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6iFs9LvpM2UzZPmRtOrkLf"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 677
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/6iFs9LvpM2UzZPmRtOrkLf",
+    "id" : "6iFs9LvpM2UzZPmRtOrkLf",
+    "images" : [ {
+      "height" : 1500,
+      "url" : "https://i.scdn.co/image/149eafa1b60e0ee3e9a10397e4a58950f172e9fc",
+      "width" : 1000
+    }, {
+      "height" : 960,
+      "url" : "https://i.scdn.co/image/6b12e52bb2115e800c0c4c3ea1208a7509371eb1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6fbf2af1c61e71c88a16f1e23027c6916f1e73de",
+      "width" : 200
+    }, {
+      "height" : 96,
+      "url" : "https://i.scdn.co/image/a27ad831e335af09861fb6e9ca153379235ba950",
+      "width" : 64
+    } ],
+    "name" : "Claire Huangci",
+    "popularity" : 30,
+    "type" : "artist",
+    "uri" : "spotify:artist:6iFs9LvpM2UzZPmRtOrkLf"
+  } ],
+  "total" : 37,
+  "limit" : 20,
+  "offset" : 0,
+  "href" : "https://api.spotify.com/v1/me/top/artists",
+  "previous" : null,
+  "next" : "https://api.spotify.com/v1/me/top/artists?limit=20&offset=20"
+}
