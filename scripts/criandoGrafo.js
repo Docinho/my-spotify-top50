@@ -1,7 +1,7 @@
 var fs = require("fs");
-console.log("\n *START* \n");
+// console.log("\n *START* \n");
 var content = fs.readFileSync("dadosSpotify.json");
-console.log("\n *EXIT* \n");
+// console.log("\n *EXIT* \n");
  var jsonContent = JSON.parse(content);
 
 let genres = {};
@@ -23,7 +23,21 @@ jsonContent.nodes = jsonContent.items.map(item => {
     };
 });
 
-console.log(genres);
+generateEdge = (artist1, artist2, genre) => ({"source": artist1,"target": artist2, "type": genre});
 
- jsonContent.nodes.forEach(function(element) {
- }, this);
+const edges = [];
+
+Object.keys(genres).forEach(genre => {
+    const artists = genres[genre];
+    artists.forEach(artist => {
+        for (artist2 of artists) {
+            if (artist2 !== artist) {
+                edges.push(generateEdge(artist, artist2, genre));
+            }
+        }
+    });
+});
+
+jsonContent.edges = edges;
+
+fs.writeFileSync('myTop50.json', JSON.stringify(jsonContent));
